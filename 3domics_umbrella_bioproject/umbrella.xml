@@ -1,0 +1,27 @@
+<PROJECT_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <PROJECT center_name="University of Copenhagen" alias="3domics_superproject">
+        <TITLE>3D'omics H2020 project</TITLE>
+        <DESCRIPTION>Umbrella project encompassing multiple studies generated within the H2020 project 3D'omics</DESCRIPTION>
+        <UMBRELLA_PROJECT/>
+        <RELATED_PROJECTS>
+          <RELATED_PROJECT>
+            <CHILD_PROJECT accession="PRJEB86258"/>
+          </RELATED_PROJECT>
+          <RELATED_PROJECT>
+            <CHILD_PROJECT accession="PRJEB86259"/>
+          </RELATED_PROJECT>
+          <RELATED_PROJECT>
+            <CHILD_PROJECT accession="PRJEB86260"/>
+          </RELATED_PROJECT>
+          <RELATED_PROJECT>
+            <CHILD_PROJECT accession="PRJEB86261"/>
+          </RELATED_PROJECT>
+          <RELATED_PROJECT>
+            <CHILD_PROJECT accession="PRJEB86262"/>
+          </RELATED_PROJECT>
+          <RELATED_PROJECT>
+            <CHILD_PROJECT accession="PRJEB86255"/>
+          </RELATED_PROJECT>
+        </RELATED_PROJECTS>
+    </PROJECT>
+</PROJECT_SET>
